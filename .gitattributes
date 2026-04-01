@@ -1,0 +1,17 @@
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+=======
+*.pdf filter=lfs diff=lfs merge=lfs -text
+>>>>>>> b7010d32749158f68822b2686ec5c01a19c1dc95
+*.fbxgit filter=lfs diff=lfs merge=lfs -text
+lfs filter=lfs diff=lfs merge=lfs -text
+track filter=lfs diff=lfs merge=lfs -text
+*.FBXgit filter=lfs diff=lfs merge=lfs -text
+*.prefab filter=lfs diff=lfs merge=lfs -text
+*.FBX filter=lfs diff=lfs merge=lfs -text
+*.obj filter=lfs diff=lfs merge=lfs -text
+*.OBJ filter=lfs diff=lfs merge=lfs -text
+Civil[[:space:]]Transport[[:space:]]Aircraft/** filter=lfs diff=lfs merge=lfs -text
+**/*.fbx filter=lfs diff=lfs merge=lfs -text
